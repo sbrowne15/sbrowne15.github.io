@@ -1,5 +1,5 @@
 # Sean Browne
-[<img https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white />](https://www.linkedin.com/in/seanbrowne/)
+[<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white />](https://www.linkedin.com/in/seanbrowne/)
 
 ## About Me
 For roughly 15 years I have worked in Oil and Gas, mainly Oilfield Services focused on Directional Drilling.  In that time I have done a little bit of everything.  I enetered the industry in finance, balancing field tickets prior to billing them.  I moved into operations supporting directional drillers in the field as a well design engineer, then later by managing the competency system as a Development Coordinator.  I spent time traveling around the United States as a technical training specialist teaching new hires the in's and out's of Measurement While Drilling Systems and Well Design.  Ultimately, I leveraged all of that into becoming an Account Executive working in the business development group.  All while dodging, dipping, ducking, and all the other action verbs associated with demonstrating enough value to make it through multiple downturns in the industry.  Then I found myself caught between a price war in the Eastern Hemisphere and a Global Pandemic.
