@@ -7,7 +7,7 @@ For roughly 15 years I have worked in Oil and Gas, mainly Oilfield Services focu
 After the dust settled, I looked around for my next path forward.  I reflected on my MBA program and what within it was exciting to me.  I landed on the data analysis studies.  Data driven decision making was just starting to gain traction within my business unit as I was completing that portion of my studies, so it was perfect timing then.  The outlook and recession-proof nature of the work seemed to make it perfect timing for a pivot now.  So here I am, building a portfolio to showcase what I have learned and what I am capable of doing for the company that ultimately hires me.
 
 ## Projects
-###[basic_music_recommendations](https://github.com/sbrowne15/basic_music_recommendations)
+### [basic_music_recommendations](https://github.com/sbrowne15/basic_music_recommendations)
 Utilized the 1 Million Song dataset to create a music recommendation program based on overall popularity(naive/unpersonalized) and user selections(personalized/collaborative filter).  Recommendations can also be made by song title using the same logic as the user selections.  Correlations were made using Pearson Correlation Model.
 
 Recommendations and the ability to make them are a cornerstone of most, if not all, media services regardless of medium (books, music, movies, etc.).  I was interested in "peeking behind the curtain" to get an idea of how this worked.  The next step would be to apply the program to the full dataset, develop a front-end for users to request recommendations based on songs, playlists, or artists, and finding more data to incorporate into this dataset to strengthen recommendations.
